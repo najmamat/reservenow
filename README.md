@@ -1,10 +1,11 @@
 
-## ReserveNow
+# ReserveNow
 Školní projekt vytvořený v letním semestru 2022 na předmět RSP v týmu 13 lidí.
 
-## Creator rezervačních systémů (viz. dokumentace)
+# Creator rezervačních systémů (viz. dokumentace)
+Projekt je podobný webové aplikaci https://reenio.cz/. Cílem je tedy aplikace, která uživatelům umožňuje vytváření registračních formulářů pro jejich pracovní dobu, turistické pokoje k pronájmu či rezervaci sportovních areálů. Uživatelé tak získají nástroj, který za ně vyřeší celou rezervační agendu a který jim následně poskytne informační výstupy v podobě zabraných a volných časových slotů, statistiku četnosti objednávek nebo frekventovanosti konkrétních časů nebo obecnou správu nad rezervacemi a přístupy k informacím přihlášených zájemců.
 
-# Použité technologie
+## Použité technologie
 - Java
 - Spring
 - REST
