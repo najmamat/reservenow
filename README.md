@@ -14,5 +14,6 @@ Projekt je podobný webové aplikaci https://reenio.cz/. Cílem je tedy aplikace
 - Docker
 - React
 - SCSS
+- Figma (https://www.figma.com/file/LxyXqnCHiRBFALiBhTuKOK/prototypes-(Copy)?node-id=0%3A1)
 
 <img width="1674" alt="Screenshot 2022-06-02 at 11 35 38" src="https://user-images.githubusercontent.com/105919297/171601539-783011f8-26b9-492b-bf37-4e81c86d4deb.png">
