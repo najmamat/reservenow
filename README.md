@@ -1,7 +1,6 @@
 
 # ReserveNow
-Školní projekt vytvořený v letním semestru 2022 na předmět RSP v týmu 13 lidí.
-Aplikace je nasazená na heroku (https://reservenow.herokuapp.com/#home), bohužel není plně funčnkí a zobrazí se pouze statický obsah, kvůli odpojení školní databáze.
+Školní skupinový projekt vytvořený v letním semestru 2022 na předmět RSP.
 
 ## Creator rezervačních systémů [(dokumentace v pdf)](https://github.com/najmamat/reservenow/files/9593712/RSP.pdf)
 
